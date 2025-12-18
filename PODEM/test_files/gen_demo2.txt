@@ -1,0 +1,4 @@
+Circuit: new_netlist.txt   Input fault: Net 2 s-a-1
+
+The fault is undetectable
+

@@ -1,0 +1,8 @@
+Circuit: s27.txt   Input fault: Net 9 s-a-1
+
+Test vector generated: 0000100
+
+Circuit: s27.txt   Input fault: Net 12 s-a-0
+
+Test vector generated: 1000100
+

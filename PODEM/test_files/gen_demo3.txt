@@ -1,0 +1,39 @@
+Circuit: s27.txt   Input fault: Net 5 s-a-0
+
+Test vector generated: 0000100
+
+Circuit: s27.txt   Input Vector: 0 0 0 0 1 0 0
+
+------FAULTS DETECTED -----------
+    1 stuck at  1
+    2 stuck at  1
+    5 stuck at  0
+    7 stuck at  1
+    9 stuck at  1
+   10 stuck at  1
+   11 stuck at  1
+   12 stuck at  1
+   15 stuck at  0
+Number of faults detected: 9
+
+Circuit: s27.txt   Input fault: Net 14 s-a-0
+
+Test vector generated: 1100000
+
+Circuit: s27.txt   Input Vector: 1 1 0 0 0 0 0
+
+------FAULTS DETECTED -----------
+    1 stuck at  0
+    2 stuck at  0
+    3 stuck at  1
+    5 stuck at  0
+    7 stuck at  0
+    9 stuck at  1
+   11 stuck at  0
+   12 stuck at  0
+   13 stuck at  0
+   14 stuck at  0
+   15 stuck at  1
+   20 stuck at  1
+Number of faults detected: 12
+
