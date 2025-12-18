@@ -1,0 +1,7 @@
+Circuit: s27.txt   Input Vector: 1 1 1 0 1 0 1
+
+------FAULTS DETECTED -----------
+    1 stuck at  0
+    7 stuck at  0
+Number of faults detected: 2
+
